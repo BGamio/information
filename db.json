@@ -4,14 +4,14 @@
       "id": 1,
       "title": "The Vue Tutorials",
       "description": "The best tips and tutorials for Vue.",
-      "published": false,
-      "status": "Unpublished"
+      "published": true
     },
     {
       "id": 2,
       "title": "Amazing Microsoft .NET",
       "description": "Weekly tutorials about .NET and ASP.NET Core.",
-      "published": false
+      "published": false,
+      "status": "Unpublished"
     },
     {
       "id": 3,
@@ -29,15 +29,7 @@
       "id": 5,
       "title": "ASP.NET Code Advanced",
       "description": "What nobody tells you about ASP.NET Core.",
-      "published": true,
-      "status": "Published"
-    },
-    {
-      "id": 6,
-      "title": "The Vue Zone",
-      "description": "Incredible articles about Vue",
-      "published": false,
-      "status": "Unpublished"
+      "published": false
     }
   ]
 }
